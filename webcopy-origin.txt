@@ -1,0 +1,108 @@
+Uri: https://softivuslab.com/portify/versions/topbar/assets/css/index.css
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\css\index.css
+Content Type: text/css
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/arrow.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\arrow.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/blog-1.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\blog-1.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/blog-2.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\blog-2.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/blog-3.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\blog-3.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/blog-4.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\blog-4.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/blog-details.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\blog-details.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/blog-video.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\blog-video.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/edumaster-big.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\edumaster-big.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/fb.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\fb.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/hero.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\hero.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/project-details-1.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\project-details-1.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/project-details-2.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\project-details-2.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/project-one.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\project-one.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/project-three.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\project-three.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/project-two.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\project-two.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/sp.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\sp.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/tt.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\tt.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/x.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\x.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/images/youtube.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\images\youtube.png
+Content Type: image/png
+
+Uri: https://softivuslab.com/portify/versions/topbar/assets/js/app.js
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\assets\js\app.js
+Content Type: text/javascript
+
+Uri: https://softivuslab.com/portify/versions/topbar/blog-details.html
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\blog-details.html
+Content Type: text/html
+
+Uri: https://softivuslab.com/portify/versions/topbar/blogs.html
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\blogs.html
+Content Type: text/html
+
+Uri: https://softivuslab.com/portify/versions/topbar/index.html
+File Name: C:\Downloaded Web Sites\softivuslab.com\portify\versions\topbar\index.html
+Content Type: text/html
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/5/5c/Image_gaussian_noise_example.png
+File Name: C:\Downloaded Web Sites\softivuslab.com\wikipedia\commons\5\5c\Image_gaussian_noise_example.png
+Content Type: image/png
+
